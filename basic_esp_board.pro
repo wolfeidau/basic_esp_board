@@ -1,4 +1,4 @@
-update=Wednesday, 08 July 2015 04:57:17 pm
+update=Wednesday, 08 July 2015 05:19:50 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,16 @@ LibName33=ld1117
 LibName34=am2302
 LibName35=ftdi
 LibName36=open-project
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
