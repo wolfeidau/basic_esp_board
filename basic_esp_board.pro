@@ -1,4 +1,4 @@
-update=Wednesday, 08 July 2015 02:40:00 pm
+update=Wednesday, 08 July 2015 04:57:17 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,4 @@ LibName32=AMS1117
 LibName33=ld1117
 LibName34=am2302
 LibName35=ftdi
+LibName36=open-project
