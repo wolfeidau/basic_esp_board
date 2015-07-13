@@ -1,4 +1,4 @@
-update=Wednesday, 08 July 2015 08:23:11 pm
+update=Monday, 13 July 2015 06:17:54 am
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,9 +20,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
 [general]
 version=1
 [schematic_editor]
@@ -38,6 +35,9 @@ RptD_X=0
 RptD_Y=100
 RptLab=1
 LabSize=60
+[cvpcb]
+version=1
+NetIExt=net
 [eeschema]
 version=1
 LibDir=
@@ -79,3 +79,4 @@ LibName34=am2302
 LibName35=ftdi
 LibName36=open-project
 LibName37=logic
+LibName38=mages_mega
