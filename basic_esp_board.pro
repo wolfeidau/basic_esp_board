@@ -1,4 +1,4 @@
-update=Monday, 13 July 2015 06:17:54 am
+update=Wednesday, 22 July 2015 09:05:22 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -22,19 +22,6 @@ BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [cvpcb]
 version=1
 NetIExt=net
@@ -80,3 +67,16 @@ LibName35=ftdi
 LibName36=open-project
 LibName37=logic
 LibName38=mages_mega
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
