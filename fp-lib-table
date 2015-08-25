@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Buttons_Switches_SMD)(type Github)(uri "$(KIGITHUB)/Buttons_Switches_SMD.pretty")(options "")(descr ""))
+  (lib (name Buttons_Switches_ThroughHole)(type Github)(uri "$(KIGITHUB)/Buttons_Switches_ThroughHole.pretty")(options "")(descr ""))
+  (lib (name FT)(type KiCad)(uri "$(KIPRJMOD)/ftlibrary/freetronics_footprints.pretty")(options "")(descr ""))
+  (lib (name molex_usb)(type Legacy)(uri "$(KIPRJMOD)/molex_usb.mod")(options "")(descr ""))
+)
